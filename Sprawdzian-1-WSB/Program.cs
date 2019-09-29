@@ -24,6 +24,7 @@ namespace Sprawdzian_1_WSB
             //
             Console.WriteLine(sum1);
             Console.WriteLine(sum2);
+            Console.WriteLine("The sum of the elements of the array is {0}", (sum1) );
         }
     }
 }
